@@ -1,0 +1,10 @@
+name: 'D324 default content'
+type: module
+package: D324
+version: 8.x-7.x-dev
+core: 8.x
+project: d324_default_content
+description: 'Provides starter default content for D324.'
+dependencies:
+  - default_content:default_content
+  - d324_copyright_block:d324_copyright_block
